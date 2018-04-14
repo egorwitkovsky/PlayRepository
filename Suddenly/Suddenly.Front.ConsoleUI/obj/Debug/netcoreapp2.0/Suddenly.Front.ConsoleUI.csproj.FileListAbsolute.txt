@@ -1,0 +1,11 @@
+C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.ConsoleUI\bin\Debug\netcoreapp2.0\Suddenly.Front.ConsoleUI.deps.json
+C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.ConsoleUI\bin\Debug\netcoreapp2.0\Suddenly.Front.ConsoleUI.runtimeconfig.json
+C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.ConsoleUI\bin\Debug\netcoreapp2.0\Suddenly.Front.ConsoleUI.runtimeconfig.dev.json
+C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.ConsoleUI\bin\Debug\netcoreapp2.0\Suddenly.Front.ConsoleUI.dll
+C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.ConsoleUI\obj\Debug\netcoreapp2.0\Suddenly.Front.ConsoleUI.csproj.CoreCompileInputs.cache
+C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.ConsoleUI\obj\Debug\netcoreapp2.0\Suddenly.Front.ConsoleUI.AssemblyInfoInputs.cache
+C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.ConsoleUI\obj\Debug\netcoreapp2.0\Suddenly.Front.ConsoleUI.AssemblyInfo.cs
+C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.ConsoleUI\bin\Debug\netcoreapp2.0\Suddenly.Front.ConsoleUI.pdb
+C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.ConsoleUI\obj\Debug\netcoreapp2.0\Suddenly.Front.ConsoleUI.csprojResolveAssemblyReference.cache
+C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.ConsoleUI\obj\Debug\netcoreapp2.0\Suddenly.Front.ConsoleUI.dll
+C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.ConsoleUI\obj\Debug\netcoreapp2.0\Suddenly.Front.ConsoleUI.pdb

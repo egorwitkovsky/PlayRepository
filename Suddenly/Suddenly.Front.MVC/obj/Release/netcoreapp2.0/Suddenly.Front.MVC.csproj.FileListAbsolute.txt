@@ -1,0 +1,11 @@
+C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.MVC\bin\Release\netcoreapp2.0\Suddenly.Front.MVC.deps.json
+C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.MVC\bin\Release\netcoreapp2.0\Suddenly.Front.MVC.runtimeconfig.json
+C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.MVC\bin\Release\netcoreapp2.0\Suddenly.Front.MVC.runtimeconfig.dev.json
+C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.MVC\bin\Release\netcoreapp2.0\Suddenly.Front.MVC.dll
+C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.MVC\bin\Release\netcoreapp2.0\Suddenly.Front.MVC.pdb
+C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.MVC\obj\Release\netcoreapp2.0\Suddenly.Front.MVC.csprojResolveAssemblyReference.cache
+C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.MVC\obj\Release\netcoreapp2.0\Suddenly.Front.MVC.csproj.CoreCompileInputs.cache
+C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.MVC\obj\Release\netcoreapp2.0\Suddenly.Front.MVC.AssemblyInfoInputs.cache
+C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.MVC\obj\Release\netcoreapp2.0\Suddenly.Front.MVC.AssemblyInfo.cs
+C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.MVC\obj\Release\netcoreapp2.0\Suddenly.Front.MVC.dll
+C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.MVC\obj\Release\netcoreapp2.0\Suddenly.Front.MVC.pdb

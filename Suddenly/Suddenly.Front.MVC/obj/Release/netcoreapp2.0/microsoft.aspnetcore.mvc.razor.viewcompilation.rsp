@@ -1,0 +1,12 @@
+C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.MVC
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Suddenly.Front.MVC
+--content-root=C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.MVC
+--file=C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.MVC\Views\Home\About.cshtml
+--file=C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.MVC\Views\Home\Contact.cshtml
+--file=C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.MVC\Views\Home\Index.cshtml
+--file=C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.MVC\Views\Shared\Error.cshtml
+--file=C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.MVC\Views\Shared\_Layout.cshtml
+--file=C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.MVC\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.MVC\Views\_ViewImports.cshtml
+--file=C:\GitHub\PlayRepository\Suddenly\Suddenly.Front.MVC\Views\_ViewStart.cshtml
