@@ -1,0 +1,11 @@
+C:\GitHub\PlayRepository\Tndr\Tndr.ConsoleUI.V1\bin\Debug\netcoreapp2.0\Tndr.ConsoleUI.V1.deps.json
+C:\GitHub\PlayRepository\Tndr\Tndr.ConsoleUI.V1\bin\Debug\netcoreapp2.0\Tndr.ConsoleUI.V1.runtimeconfig.json
+C:\GitHub\PlayRepository\Tndr\Tndr.ConsoleUI.V1\bin\Debug\netcoreapp2.0\Tndr.ConsoleUI.V1.runtimeconfig.dev.json
+C:\GitHub\PlayRepository\Tndr\Tndr.ConsoleUI.V1\bin\Debug\netcoreapp2.0\Tndr.ConsoleUI.V1.dll
+C:\GitHub\PlayRepository\Tndr\Tndr.ConsoleUI.V1\bin\Debug\netcoreapp2.0\Tndr.ConsoleUI.V1.pdb
+C:\GitHub\PlayRepository\Tndr\Tndr.ConsoleUI.V1\obj\Debug\netcoreapp2.0\Tndr.ConsoleUI.V1.csprojResolveAssemblyReference.cache
+C:\GitHub\PlayRepository\Tndr\Tndr.ConsoleUI.V1\obj\Debug\netcoreapp2.0\Tndr.ConsoleUI.V1.csproj.CoreCompileInputs.cache
+C:\GitHub\PlayRepository\Tndr\Tndr.ConsoleUI.V1\obj\Debug\netcoreapp2.0\Tndr.ConsoleUI.V1.AssemblyInfoInputs.cache
+C:\GitHub\PlayRepository\Tndr\Tndr.ConsoleUI.V1\obj\Debug\netcoreapp2.0\Tndr.ConsoleUI.V1.AssemblyInfo.cs
+C:\GitHub\PlayRepository\Tndr\Tndr.ConsoleUI.V1\obj\Debug\netcoreapp2.0\Tndr.ConsoleUI.V1.dll
+C:\GitHub\PlayRepository\Tndr\Tndr.ConsoleUI.V1\obj\Debug\netcoreapp2.0\Tndr.ConsoleUI.V1.pdb
